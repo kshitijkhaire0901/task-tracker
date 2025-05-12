@@ -1,2 +1,23 @@
-# task-tracker
-Task-Tracker project is initially a small scale and dummy project right now , and its core functions are used to create a new task by typing it into the box and adding it to the list and then selecting any two options to mark as completed or delete the given task and then it can filtered by using filters such as All , Active and Completed. 
+# ✅ Task Tracker App
+
+A simple and clean task tracker (to-do list) built with **HTML**, **CSS**, and **JavaScript**.
+
+## 📌 Features
+
+- Add new tasks instantly
+- Mark tasks as completed ✅
+- Delete tasks 🗑
+- Filters: View All, Active, or Completed tasks
+- Persistent data using `localStorage`
+- Timestamp for task creation ⏰
+- Smooth add/remove transitions ✨
+
+## 🧪 Tech Stack
+
+- HTML5
+- CSS3 (Flexbox, transitions)
+- Vanilla JavaScript (DOM manipulation, localStorage)
+
+
+ 
+
